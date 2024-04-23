@@ -44,7 +44,7 @@
 
 ## Download da aplicação :dash:
 
-> Baixe a Aplicação [AQUI](https://github.com/lbarbatto/conversor-de-moedas/raw/main/final/conversorDeMoedas.jar) :
+> Baixe a Aplicação [AQUI](https://github.com/ValberLucas/conversor-de-moedas/blob/main/final/conversorDeMoedas.jar) :
 
 Baixe o Arquivo para executar a aplicação
 
@@ -56,7 +56,7 @@ Basta inserir um valor monetário e clicar no botão "OK", em seguida escolha qu
 
 ## Desenvolvedores/Contribuintes
 
-[Valber lucas](https://www.linkedin.com/in/valber-lucas/)
+[Valber Lucas](https://www.linkedin.com/in/valber-lucas/)
 
 ## Licença 
 
